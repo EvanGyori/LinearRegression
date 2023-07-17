@@ -1,4 +1,4 @@
-dataFile = open("Advertising.csv", "r")
+dataFile = open("AdvertisingData.csv", "r")
 dataFile.readline()
 dataLines = dataFile.readlines()
 data = []
